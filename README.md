@@ -1,3 +1,3 @@
 # Lists
 
-* [Recommended Reading(recommended-reading.md)
+* [Recommended Reading](recommended-reading.md)
