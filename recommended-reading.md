@@ -52,3 +52,5 @@ From one of the members of the v8 team, a series of articles on the V8 JavaScrip
 https://github.com/thlorenz/v8-perf/blob/master/data-types.md
 A good overview, with backing references, on how data types work in JavaScript and how they affect performance.
 
+http://calendar.perfplanet.com/2013/diff/
+Review of how the virtual-dom feature of ReactJS works.
